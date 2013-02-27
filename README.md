@@ -1,4 +1,4 @@
-NH-DotNetTest
+NH-Sandbox
 =============
 
-Learning by doing, no relevance
+GiT - Learning by doing, no relevance
