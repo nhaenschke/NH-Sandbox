@@ -1,4 +1,4 @@
 NH-DotNetTest
 =============
 
-DotNet-Tester für iWFM, eigeneVersion
+Learning by doing, no relevance
